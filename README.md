@@ -80,6 +80,6 @@ python -m streamlit run app.py
 
 ## Links
 
-- **GitHub Repository:** https://github.com/RajapandiAI/BANKMARKETING-MLASSIGNMENT2
+- **GitHub Repository:** https://github.com/ssakthiece-wq/SAKTHIVELS
 - **Streamlit Application:** (https://bankmarketing-mlassignment2-kvltphhnjsntwkqhhyzbwx.streamlit.app/)
 - **Dataset:** https://archive.ics.uci.edu/dataset/222/bank+marketing
