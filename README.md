@@ -25,7 +25,7 @@ Preprocessing should encode categorical variables and apply any numerical scalin
 
 The repository should include the application, training code, dependency list, test CSV, saved trained models and preprocessing artifacts, and this README. Confirm that the required files and model artifacts are committed and visible in the repository before submission.
 
-**Streamlit Application:** https://bankmarketing-mlassignment2-kvltphhnjsntwkqhhyzbwx.streamlit.app/
+**Streamlit Application:** https://verbose-space-telegram-77pw645wwjg52pr65.github.dev/
 
 ## d. Models Used
 
