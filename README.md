@@ -21,7 +21,7 @@ Preprocessing should encode categorical variables and apply any numerical scalin
 
 ## c. GitHub Repository Link
 
-**GitHub Repository:** https://github.com/RajapandiAI/BANKMARKETING-MLASSIGNMENT2
+**GitHub Repository:** https://github.com/ssakthiece-wq/SAKTHIVELS
 
 The repository should include the application, training code, dependency list, test CSV, saved trained models and preprocessing artifacts, and this README. Confirm that the required files and model artifacts are committed and visible in the repository before submission.
 
